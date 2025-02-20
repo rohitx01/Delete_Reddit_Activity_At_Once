@@ -10,3 +10,8 @@ Run this Python script and You can delete all your Reddit activity at once, incl
 - For the "redirect uri", put http://localhost:8080
 - After creation, the client_id is the string under "personal use script". For example, it may look like this: "AE9-zURLEvI1pze_rqH4Iw".
 - The client_secret is what appears next to "secret". It will look like this: "ZeqnEO_F21BrzzgOpb_es4kOfbhTww"
+
+**STEP 2:**
+- Download the python file and,
+- Paste your client_id, client_secret, username and password in the script.
+- Run the script
